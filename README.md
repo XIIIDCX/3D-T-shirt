@@ -16,5 +16,5 @@ The following tools were used in the creation of this project:
 2. React Three Fiber
 3. Framer Motion
 4. TailwindCSS
-5. 
+   
 =====================================================================
